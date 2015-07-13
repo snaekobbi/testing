@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3"><head>
+    <meta name="dtb:uid" content="test"/> 
+    <meta name="dc:Title" content="Hyphenation test"/> 
+    <meta name="dc:Identifier" content="test"/> 
+    <meta name="track:Guidelines" content="2015-1"/> 
+    <meta name="track:Supplier" content=""/> 
+    <meta name="dc:Language" content="no"/> 
+    <meta name="dc:Format" content="DTBook"/> 
+    <meta name="dc:Creator" content="Kari"/>
+    <meta name="dc:Contributor" content=""/>
+    <meta name="dc:Source" content=""/> 
+    <meta name="dc:Date" content="2015-06-19"/> 
+    <meta name="dc:Publisher" content="NLB"/> 
+    <meta name="dcterms:modified" content="2015-05-21T15:12:03+00:00"/> 
+</head><book><frontmatter> 
+    <doctitle>Hyphenation test</doctitle> 
+    <docauthor>Kari</docauthor>
+</frontmatter>
+    <bodymatter>
+<level1>
+    <h1>Ledelse av den politiske prosessen</h1>
+    <p>Den politiske prosessen er koblingen mellom koalisjonssystemet og ledelsessystemet. Etter at vi kort definerer koalisjonssystemet, ledelsessystemet og den politiske prosessen, vil vi g&#x00E5; n&#x00E6;rmere inn p&#x00E5; sentrale aspekter ved ledelse av den politiske prosessen. Sentrale aspekter er ledelsens arbeid med n&#x00F8;kkelinteressentene, arbeidet med stabiliteten i koalisjonen, h&#x00E5;ndteringen av maktforhold og bruk av formelle og psykologiske kontrakter mellom interessentene og virksomheten.</p>
+    <imggroup>
+        <img id="p027-001" src="p027-001.jpg" alt="image"/>
+        <caption><strong>Figur 1.3</strong> Den konseptuelle foretaksmodellen: Den politiske prosessen</caption>
+    </imggroup>
+    <level2>
+        <h2>Koalisjonssystemet</h2>
+        <p>En organisasjon kan forst&#x00E5;s som en samling eller en koalisjon av ulike interessegrupper &#x2014; s&#x00E5;kalte interessenter &#x2014; som g&#x00E5;r sammen for &#x00E5; 
+        </p>
+    </level2>
+</level1>
+    </bodymatter>
+</book>
+</dtbook>

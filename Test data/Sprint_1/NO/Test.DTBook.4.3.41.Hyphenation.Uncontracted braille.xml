@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3"><head>
+    <meta name="dtb:uid" content="test"/> 
+    <meta name="dc:Title" content="Hyphenation.Uncontracted braille"/> 
+    <meta name="dc:Identifier" content="test"/> 
+    <meta name="track:Guidelines" content="2015-1"/> 
+    <meta name="track:Supplier" content=""/> 
+    <meta name="dc:Language" content="no"/> 
+    <meta name="dc:Format" content="DTBook"/> 
+    <meta name="dc:Creator" content="Kari"/>
+    <meta name="dc:Contributor" content=""/>
+    <meta name="dc:Source" content=""/> 
+    <meta name="dc:Date" content="2015-06-19"/> 
+    <meta name="dc:Publisher" content="NLB"/> 
+    <meta name="dcterms:modified" content="2015-05-21T15:12:03+00:00"/> 
+</head><book><frontmatter> 
+    <doctitle>Hyphenation in uncontracted braille test</doctitle> 
+    <docauthor>Kari</docauthor>
+</frontmatter>
+    <bodymatter>
+        <level1>
+<h1>Hyphenation in uncontracted braille test</h1>
+            <p>selskapstøy selskapstøy selskapstøy selskapstøy blablablablabla selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy blablablablabla  selskapstøy selskapstøy blabla selskapstøy blablabla selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy</p>
+            <p>inngangsport inngangsport inngangsport inngangsport inngangsport blablablablabla inngangsport inngangsport inngangsport blablabla inngangsport inngangsport inngangsport blablabla inngangsport inngangsport inngangsport inngangsport </p>
+            <p>Busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, blablablablablabla busstopp, busstopp, busstopp, busstopp, blablabla busstopp, busstopp, busstopp, blablabla busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp</p>
+            <p>linje linje linje linje linje linje linje linje linje linje linje blablablablablabla linje linje linje linje linje linje linje linje linje blablabla linje linje blablabla linje linje linje linje linje linje linje linje .</p>
+            <p>orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, blablablablablabla orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, blablabla orddeling, orddeling, orddeling, orddeling, orddeling, orddeling.</p>
+            <p>riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, blablablablablabla riksavis, riksavis, riksavis, riksavis,  riksavis, riksavis, blablabla riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis.</p>
+            <p>skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, blablablablablabla skulle, skulle, skulle, skulle, skulle,  blablabla skulle, skulle, skulle, skulle, blablabla skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle.</p>
+            <p>eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, blablablablablabla eksempel, eksempel, eksempel, eksempel, eksempel, blablabla eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel.</p>
+            <p>hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat blablablablablabla hovedfagskandidat hovedfagskandidat blablabla hovedfagskandidat blablabla hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat </p>
+            <p>betale, betale, betale, betale, betale, betale, betale, betale, betale, blablablablablabla betale, betale, betale, blablabla betale, betale, betale, betale,betale, betale, betale, betale, betale, betale, betale, betale, betale.</p>
+            <p>17 520, 17 520, 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, blablablablablabla 17 520 17 520, 17 520 17 520, 17 520 blablabla 17 520, 17 520 17 520, 17 520 blablabla 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520  </p>
+            <p>f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. blablablablablabla f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. blablabla f.eks. f.eks. f.eks. f.eks. blablabla f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. </p>
+            <p>kort kort kort kort kort kort kort kort kort kort kort kort kort kort blablablablablabla kort kort kort kort kort kort kort kort kort kort blablabla kort kort kort kort kort blablabla kort kort kort kort kort kort kort kort kort kort kort kort kort.</p>    
+            
+<p class="precedingemptyline">Sometimes the hyphenation leads to a new understanding of the word:</p>
+            <p>inngangs-port and inngang-sport don't have the same meaning.</p>
+            <p>inngangsport inngangsport inngangsport inngangsport inngangsport inngangsport inngangsport inngangsport inngangsport inngangsport inngangsport </p>
+            <p>selskaps-tøy and selskap-støy don't have the same meaning.</p>
+            <p>selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy selskapstøy </p>
+<p class="precedingemptyline">Some words need to put in one extra consonant when hyphen it, e.g. busstopp.</p>
+            <p>Buss-stopp</p>
+            <p>Busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, busstopp, </p>
+            
+<p class="precedingemptyline">For a word to be hyphenated you need at least two parts. Let one consonant and one vocal go to the next line.</p>
+            <p>lin-je</p>
+            <p>wrong: li-nje</p>
+            <p>linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje linje .</p>
+            <p>ord-deling</p>
+            <p>wrong: ordd-eling</p>
+            <p>orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling, orddeling.</p>
+            <p>riks-avis</p>
+            <p>rik-savis</p>
+            <p>riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis, riksavis.</p>     
+<p class="precedingemptyline">One consonant rule (no enkonsonantregelen): divide word so that the part of the word in next line begins with a consonant.</p>
+            <p>me-dium</p>
+            <p>ek-sem-pel</p>
+<p class="precedingemptyline">Word link rule (no: ordleddsregelen)</p>            
+            <p>eks-emp-el</p>
+            <p>medi-um</p>
+            <p>eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel, eksempel.</p>
+<p class="precedingemptyline">Non complex words</p>
+            <p>bal-sam</p> 
+            <p>skul-le</p>
+            <p>skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle, skulle.</p>
+<p class="precedingemptyline">Complex words (no: sammensatte ord)</p>
+            <p>mot-stykke</p>
+            <p>hovedfags-kandidat</p>
+            <p>hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat hovedfagskandidat </p>
+<p class="precedingemptyline">Diversions (No: avledninger, u-, be-, -lig osv.)</p>
+            <p>kose-lig</p>
+            <p>be-tale</p>
+            <p>betale, betale, betale, betale, betale, betale, betale, betale, betale, betale, betale, betale, betale, betale, betale, betale,betale, betale, betale, betale, betale, betale, betale, betale, betale.</p> 
+<p class="precedingemptyline">Numbers are never to be divided</p>
+            <p>17 520, 17 520, 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520 17 520, 17 520  </p>
+<p class="precedingemptyline">Shortening are never to be divided</p>
+            <p>f.eks.</p>
+            <p>f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. f.eks. </p>
+<p class="precedingemptyline">Do not divide one and two syllable words</p>
+            <p>hatt</p>
+            <p>kort</p>
+           <p>kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort kort.</p>
+    </level1>
+    </bodymatter>
+</book>
+</dtbook>
