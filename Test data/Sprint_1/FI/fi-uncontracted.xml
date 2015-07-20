@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="fi" version="2005-3"><head>
+        <meta name="dtb:uid" content="328926"/> 
+        <meta name="dc:Title" content="KERRO MINULLE JOTAIN HYVÄÄ"/> 
+        <meta name="dc:Identifier" content="328926"/> 
+        <meta name="track:Guidelines" content="2015-1"/> 
+        <meta name="track:Supplier" content="Net Systems Informatics (I) Pvt. Ltd."/> 
+        <meta name="dc:Creator" content="JOJO MOYES"/> 
+        <meta name="dc:Language" content="fi"/> 
+        <meta name="dc:Source" content="urn:isbn:978-951-20-9836-1"/> 
+        <meta name="dc:Format" content="DTBook"/> 
+        <meta name="dc:Publisher" content="Celia"/> 
+        <meta name="dc:Date" content="2015-07-02"/> 
+        <meta name="dcterms:modified" content="2015-07-02T09:10:52+00:00"/> 
+    </head><book><frontmatter> 
+            <doctitle>KERRO MINULLE JOTAIN HYVÄÄ</doctitle> 
+            <docauthor>JOJO MOYES</docauthor>
+            <level1 id="f1" class="titlepage">
+                <h1 class="title fulltitle">Alkutiedot</h1> 
+                <p>Suomentanut Heli Naski</p> 
+                <p>Gummerus</p> 
+                <p>Englanninkielinen alkuteos Me Before You</p> 
+                <p>Copyright &#xa9; Jojo Moyes, 2012</p> 
+                <p>Kustantaja: Gummerus Kustannus Oy Helsinki</p> 
+                <p>Painopaikka: Bookwell Oy, Juva 2015</p> 
+                <p>ISBN 978-951-20-9836-1</p>
+                <p>Tuottaja: Celia - Näkövammaisten kirjasto 2015</p>
+                <level2>
+                    <h2>Käyttöoikeus</h2>
+                    <p> Tämä kirja on valmistettu tekijänoikeuslain 17 pykälän nojalla ja on
+                        tarkoitettu ainoastaan näkövammaisten ja muiden lukemisesteisten käyttöön.
+                    </p>
+                </level2>
+                <level2>
+                    <h2>Kustantaja esittelee</h2>
+                    <p> Louisa Clarken elämä englantilaisessa pikkukaupungissa on läpeensä
+                        turvallista ja tuttua. Kun hän aloittaa olosuhteiden pakosta ja vailla
+                        aiempaa kokemusta onnettomuudessa halvaantuneen Willin henkilökohtaisena
+                        avustajana, hän joutuu kyseenalaistamaan koko entisen elämänsä. </p>
+                    <p> Willin elämä on onnettomuuden jälkeen ollut harmaata – tai pikemminkin
+                        mustaa. Ennen hän eli kuin viimeistä päivää, ja nyt hän istuu
+                        katkeroituneena pyörätuolissa. Loulla ja Willillä ei ensin näytä olevan
+                        mitään yhteistä: Will haluaisi elää elämäänsä tyystin eri tavalla mutta ei
+                        voi, Lou taas voisi puolestaan tehdä mitä vain mutta ei uskalla levittää
+                        siipiään. Will on katkera, ylimielinen ja oikukas, mutta Lou ei suostu
+                        kohtelemaan häntä silkkihansikkain, vaan ottaa tehtäväkseen palauttaa värit
+                        ja ilon Willin maailmaan. Kun he vihdoin todella näkevät toisensa ja
+                        ymmärtävät mitä eläminen oikeastaan on, on aika tehdä suuria valintoja. </p>
+                    <p> Kerro minulle jotain hyvää on tässä päivässä tiukasti kiinni oleva,
+                        unohtumaton romaani. Sydäntäsärkevä ja epätavallinen rakkaustarina uppoaa
+                        suoraan lukijan sydämeen, taidolla, tunteella ja aitoudellaan. Sitä lukiessa
+                        ei säästy naurulta ja kyyneleiltä. </p>
+                    <p> ”Aseistariisuvan liikuttava rakkaustarina – kaunis, epätavallinen ja lumoava
+                        romaani.”Publishers Weekly </p>
+                </level2>
+                <level2>
+                    <h2>Omistus</h2>
+                    <p>Charlesille, rakkaudella</p>
+                </level2> 
+           
+            </level1>
+            <level1 id="pr1-1" class="prologue"> 
+                <h1>Prologi</h1> 
+                <level2 id="pr1-2"> 
+                    <h2>2007</h2> 
+                    <p>Kun Will tulee kylpyhuoneesta, Lissa on hereillä, nojaa tyynyihin ja selailee Willin sängyn vieressä olleita matkaesitteitä. Lissalla on yllään yksi Willin T- paidoista, ja hänen pitkät hiuksensa ovat pörrössä tavalla, joka vie Willin ajatukset tahattomasti edelliseen yöhön. Will seisoo siinä nauttien mielessään välähtävästä muistikuvasta ja hangaten märkiä hiuksiaan pyyhkeellä.</p> 
+                    <p>Lissa kohottaa katseensa esitteestä ja mutristaa huuliaan. Hän on kaiketi hiukan liian vanha sellaiseen, mutta he ovat olleet vasta niin vähän aikaa yhdessä, että se vaikuttaa vielä söpöltä.</p> 
+                    <p>"Onko meidän tosiaan pakko nousta vuorille tai roikkua rotkojen yläpuolella? Se on meidän ensimmäinen oikea lomamme yhdessä, ja joka ainoalla näistä reissuista joko hypitään jostain korkealta tai" - Lissa esittää, että häntä puistattaa -  ''kuljetaan fleecetakissa."</p> 
+                </level2> 
+            </level1>
+        </frontmatter></book>
+</dtbook>
