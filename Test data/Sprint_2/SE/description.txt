@@ -1,0 +1,3 @@
+- Testdata from Jens Chreisti and Björn Westling för requirements 4.4:51, 4.3:34, 4.3:41 and possibly 4.4:46 (margins) and 4.4:47 (borders & padding) - although slightly uncertain. 
+- The only implementation for req./feature 4.4:52 incl. centred text is for title pages.
+- If you interpret req./feature 4.4:53 vertical positioning as arbitrary/variable, examples exist for that case in the test data (dedication). 
