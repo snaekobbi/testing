@@ -1,0 +1,25 @@
+Hi Denis and Bert
+
+I hereby send you the whole test material for the features 4.3.34, 4.3.37 and 4.3.41. In the attached folder you can find the following files:
+
+Source file:
+haus.xml
+
+Files with uncontracted braille (grade 0 = Basisschrift):
+HAUS_GRADE0.TXT (without hyphenation)
+HAUS_GRADE0_HYPH28.TXT (hyphenated, width = 28) HAUS_GRADE0_HYPH36.TXT (hyphenated, width = 36)
+
+Files with uncontracted braille (grade 1 = Vollschrift):
+HAUS_GRADE1.TXT (without hyphenation)
+HAUS_GRADE1_HYPH28.TXT (hyphenated, width = 28) HAUS_GRADE1_HYPH36.TXT (hyphenated, width = 36)
+
+Files with contracted braille (grade 2 = Kurzschrift):
+HAUS_GRADE2.TXT (without hyphenation)
+HAUS_GRADE2_HYPH28.TXT (hyphenated, width = 28) HAUS_GRADE2_HYPH36.TXT (hyphenated, width = 36)
+
+I already sent you the files 'haus.xml' and 'HAUS_GRADE2.TXT' in my latest e-mail (they are identical).
+
+Don't hesitate to contact me for any further questions.
+
+Best regards,
+Mischa
