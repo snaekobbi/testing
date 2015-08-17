@@ -1,0 +1,19 @@
+Hi Bert and Denis,
+
+Here is two examples for the hyphenation test. The one named 4.3.41 contains some special words that are difficult to hyphen, e.g. busstopp (get an extra s when hyphenated buss-stopp).  The other example is a standard text.
+
+Hyphenation is a challenge. I don’t expect us to be able to follow all the Norwegian hyphenation rules (some of them is mentioned in the DTBook). The PEF here is from NorBraille and I don’t exactly know how the rules in NorBraille works. But I have written the same word over and over again to show different possibilities to hyphen. 
+
+Note that I will be away 4 weeks from Monday, so if you need me to look at some results, last day to do that for a while, is tomorrow.
+
+
+Med vennlig hilsen
+
+ 
+Kari Rudjord – Rådgiver
+NLB – Norsk lyd- og blindeskriftbibliotek
+Tlf: 22 06 88 36
+E-post: Kari.Rudjord@nlb.no
+Besøk: Observatoriegata 1B, Oslo / Post: Postboks 2764 Solli, 0204 Oslo
+www.nlb.no
+
