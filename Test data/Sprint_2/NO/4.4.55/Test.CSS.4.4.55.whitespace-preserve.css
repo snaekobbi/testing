@@ -1,0 +1,11 @@
+.normal {
+    white-space: normal;
+}
+
+.pre-line {
+    white-space: pre-line;
+}
+
+.pre-wrap {
+    white-space: pre-wrap;
+}

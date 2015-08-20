@@ -1,0 +1,135 @@
+<?xml-stylesheet href="Test.CSS.4.4.55.whitespace-preserve.css" type="text/css"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3">
+    <head>
+        <meta content="NLB-whitespace-preserve" name="dtb:uid"/>
+        <meta content="Whitespace preserve test" name="dc:Title"/>
+        <meta content="NLB" name="dc:Creator"/>
+        <meta content="2015-08-20" name="dc:Date"/>
+        <meta content="NLB" name="dc:Publisher"/>
+        <meta content="NLB-whitespace-preserve" name="dc:Identifier"/>
+        <meta content="en" name="dc:Language"/>
+    </head>
+    <book showin="blp">
+        <frontmatter>
+            <doctitle>Whitespace preserve test</doctitle>
+            <docauthor>NLB</docauthor>
+        </frontmatter>
+        <bodymatter>
+            <level1>
+                <h1>Whitespace preserve test</h1>
+
+                <level2>
+                    <h2>A poem that preserves linebreaks and spaces</h2>
+
+                    <poem>
+                        <linegroup class="pre-wrap">
+                            <line>What is it,          what defines this?</line>
+                        </linegroup>
+                        <linegroup class="pre-wrap">
+                            <line>Is it                the aching for her?</line>
+                        </linegroup>
+                        <linegroup class="pre-wrap">
+                            <line>Is it                the fresh memory</line>
+                            <line>of her               caught in my open hand</line>
+                            <line>I speak              broken sentences</line>
+                            <line>honestly,            of no help</line>
+                        </linegroup>
+                        <linegroup class="pre-wrap">
+                            <line>Is it                the eye seeing this?</line>
+                        </linegroup>
+                        <linegroup class="pre-wrap">
+                            <line>Is it a              photograph too
+focused,             dear to the heart
+Speaking             in words weighing so
+little               so little is said</line>
+                        </linegroup>
+                        <linegroup class="pre-wrap">
+                            <line>The simplest         truth, my keen</line>
+                            <line>heart does not know  how to stop</line>
+                        </linegroup>
+                        <author>Author With A Relatively Long Name</author>
+                    </poem>
+                </level2>
+
+                <level2>
+                    <h2>A poem that preserves linebreaks but not spaces</h2>
+
+                    <poem>
+                        <linegroup class="pre-line">
+                            <line>What is it,          what defines this?</line>
+                        </linegroup>
+                        <linegroup class="pre-line">
+                            <line>Is it                the aching for her?</line>
+                        </linegroup>
+                        <linegroup class="pre-line">
+                            <line>Is it                the fresh memory</line>
+                            <line>of her               caught in my open hand</line>
+                            <line>I speak              broken sentences</line>
+                            <line>honestly,            of no help</line>
+                        </linegroup>
+                        <linegroup class="pre-line">
+                            <line>Is it                the eye seeing this?</line>
+                        </linegroup>
+                        <linegroup class="pre-line">
+                            <line>Is it a              photograph too
+focused,             dear to the heart
+Speaking             in words weighing so
+little               so little is said</line>
+                        </linegroup>
+                        <linegroup class="pre-line">
+                            <line>The simplest         truth, my keen</line>
+                            <line>heart does not know  how to stop</line>
+                        </linegroup>
+                        <author>Author With A Relatively Long Name</author>
+                    </poem>
+                </level2>
+
+                <level2>
+                    <h2>A poem that preserves neither linebreaks nor spaces</h2>
+
+                    <poem>
+                        <linegroup class="normal">
+                            <line>What is it,          what defines this?</line>
+                        </linegroup>
+                        <linegroup class="normal">
+                            <line>Is it                the aching for her?</line>
+                        </linegroup>
+                        <linegroup class="normal">
+                            <line>Is it                the fresh memory</line>
+                            <line>of her               caught in my open hand</line>
+                            <line>I speak              broken sentences</line>
+                            <line>honestly,            of no help</line>
+                        </linegroup>
+                        <linegroup>
+                            <line>Is it                the eye seeing this?</line>
+                        </linegroup>
+                        <linegroup>
+                            <line>Is it a              photograph too
+focused,             dear to the heart
+Speaking             in words weighing so
+little               so little is said</line>
+                        </linegroup>
+                        <linegroup>
+                            <line>The simplest         truth, my keen</line>
+                            <line>heart does not know  how to stop</line>
+                        </linegroup>
+                        <author>Author With A Relatively Long Name</author>
+                    </poem>
+                </level2>
+
+                <level2>
+                    <h2>Source code</h2>
+                    <p class="pre-wrap">
+<!-- Comments should not render -->
+body {
+    color: red;<br class="br-should-become-newline"/>    background-color: white;
+}
+</p>
+                </level2>
+
+            </level1>
+        </bodymatter>
+    </book>
+</dtbook>
