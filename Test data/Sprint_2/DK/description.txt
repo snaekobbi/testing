@@ -1,0 +1,14 @@
+Hi Denis,
+
+The data is available here:
+
+
+https://github.com/stesk/danishbraille/tree/master/tests
+
+
+I don't group files according to features tested, but I hope the naming scheme is of some help. In the future I will make sure to specifically reference all files in the test protocol.
+
+Note that I have only provided expected output for files used in translation-related unit tests. For systems tests I check the output to see if it looks right. Because the system we currently use is far from perfect, the only way to produce actual high-quality reference files would be to write them by hand, which is far too time-consuming.
+
+Yours sincerely,
+Steffen

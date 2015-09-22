@@ -1,0 +1,84 @@
+@page { size: 32 29; }
+
+book {
+    display: block;
+	margin-left: 2;
+	margin-right: 2;
+}
+
+dtbook {
+  hyphens: auto;
+}
+
+p {
+	display: block;
+	margin-top: 0;
+	padding-top: 1;
+	
+}
+
+p.precedingemptyline {
+	
+	margin-top: 0;
+	padding-top: 1;
+	text-indent: 0;
+	
+}
+
+p.indented {
+	text-indent: 2;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+doctitle {
+	display: block;
+	-obfl-vertical-position: 10;
+	text-align: center;
+}
+
+docauthor {
+	display: block;
+	-obfl-vertical-position: 8;
+	text-align: center;
+
+}
+
+
+level1.part h1{
+
+	display: block;
+	text-align: center;
+	margin-left: 1;
+	margin-right: 1;
+	margin-top: 1;
+	margin-bottom: 1;
+	padding-left: 1;
+	padding-right: 1;
+	padding-top: 1;
+	padding-bottom: 1;
+
+    border-top: ⠉;
+    border-bottom: ⠤;
+}
+
+level1.colophon{
+
+	display: block;
+	text-align: center;
+	margin-left: 1;
+	margin-right: 1;
+	margin-top: 10;
+	margin-bottom: 10;
+	padding-left: 1;
+	padding-right: 1;
+	padding-top: 1;
+	padding-bottom: 1;
+
+    }
+
+blockquote {
+    padding-top: 1;
+    padding-left: 2;
+    padding-bottom: 1;
+}

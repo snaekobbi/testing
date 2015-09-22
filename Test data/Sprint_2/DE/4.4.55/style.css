@@ -1,0 +1,8 @@
+@namespace brl url(http://www.daisy.org/z3986/2009/braille/);
+
+@page { size: 28 28; }
+
+
+brl|select > brl|otherwise {
+	display: none;
+}

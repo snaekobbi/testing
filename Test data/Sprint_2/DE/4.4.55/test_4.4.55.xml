@@ -21,6 +21,7 @@
     <meta name="dtb:sourceRights" content=""/>
     <meta name="prod:series" content=""/>
     <meta name="prod:seriesNumber" content=""/>
+    <link rel="stylesheet" href="style.css"/>
   </head>
   <book>
     <frontmatter>
@@ -38,26 +39,10 @@
     </frontmatter>
     <bodymatter>
       <level1>
-        <!-- 4.4:46 margins on blocks -->
-        <p>blo blo blo blo blo blo blo blo blo blo blo blo blo blo blo blo</p>
-        <div class="block1">
-          <p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <p>blo blo blo blo blo blo blo blo blo blo blo blo blo blo blo blo</p>
-        <!-- 4.4:47 borders and padding on blocks -->
-        <div class="block2">
-          <p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        </div>
-        <p>blo blo blo blo blo blo blo blo blo blo blo blo blo blo blo blo</p>
-        <!-- 4.4:51 first line indentation -->
-        <p class="indent">bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        <p class="hanging">bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
-        <!-- 4.4:52 left/centered/right-aligned text -->
-        <p class="left">bla</p>
-        <p class="center">bla</p>
-        <p class="right">bla</p>
-        <!-- 4.4:53 block alignment relative to a vertical position -->
-        <p class="v_align">bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
+        <p><brl:num role="ordinal">3.</brl:num>&nbsp;die Mittelsenkrechte auf der Strecke<brl:select>
+          <brl:when-braille><brl:literal>&#x00A0;&#x00A0;⠷⠘⠉⠙⠾⠀&#x00A0;&#x00A0;</brl:literal></brl:when-braille>
+          <brl:otherwise>[CD]</brl:otherwise>
+        </brl:select>im Punkt <abbr>Q</abbr>.</p>
       </level1>
     </bodymatter>
   </book>
