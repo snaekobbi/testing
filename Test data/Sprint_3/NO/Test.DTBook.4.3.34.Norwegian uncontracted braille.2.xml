@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3"><head>
+    <link  rel="stylesheet"   media="embossed" type="text/css" href="style.css" />
+    <meta name="dtb:uid" content="test"/> 
+    <meta name="dc:Title" content="Uncontracted braille"/> 
+    <meta name="dc:Identifier" content="test"/> 
+    <meta name="track:Guidelines" content="2015-1"/> 
+    <meta name="track:Supplier" content=""/> 
+    <meta name="dc:Language" content="no"/> 
+    <meta name="dc:Format" content="DTBook"/> 
+    <meta name="dc:Creator" content="Kari"/>
+    <meta name="dc:Contributor" content=""/>
+    <meta name="dc:Source" content=""/> 
+    <meta name="dc:Date" content="2015-06-19"/> 
+    <meta name="dc:Publisher" content="NLB"/> 
+    <meta name="dcterms:modified" content="2015-05-21T15:12:03+00:00"/> 
+</head><book><frontmatter> 
+    <doctitle>Norwegian uncontracted braille test 2</doctitle> 
+    <docauthor>Kari</docauthor>
+    </frontmatter>
+    <bodymatter>
+    <level1 id="level1_6" class="chapter">
+    <h1>Norwegian uncontracted braille test 2</h1>
+<p>This test for norwegian uncontracted braille include some diacritics to test them. It also contains a variety of signs in norwegian uncontracted braille.</p>
+        
+        <p class="precedingemptyline">Norwegian braille</p>
+            <p>Norwegian alfabet: a - b - c - d - e - f - g - h - i - j - k - l - m - n - o - p - q - r - s - t - u - v - w - x - y - z - æ - ø - å</p>
+        <p class="precedingemptyline">special letters:</p>    
+        <p>à - a with grave 12356</p>
+        <p>ä - a with umlaut (trema) 345</p>
+        <p>ç - c with cedille 12346</p>
+        <p>é - e with acute 123456</p>
+        <p>è - e with grave 2346</p>
+        <p>ê - e with cirkumfleks 126</p>
+        <p>ò - o with grave 346</p>
+        <p>ö - o with umlaut (trema) 246</p>
+        <p>ü - u with umlaut (trema) 1256</p>
+        
+        <p class="precedingemptyline">Sami letters</p>
+        <p>á - a with acute (sami) 12356</p>
+        <p>č - c with inverted cirkumfleks (sami) 146</p>
+        <p>đ - d with stroke (sami) 1456</p>
+        <p>ŋ - eng, n with right stroke prolonged (sami) 1246</p>
+        <p>š - s with inverted cirkumfleks (caron) (sami) 156</p>
+        <p>ŧ  - t with stroke (sami) 1256</p>
+        <p>ž - z with inverted cirkumfleks (caron) (sami) 2346</p>
+        <p class="precedingemptyline">Old norse signs (just to test how they work): á -  ð - é - í - ó - ú - ý - þ - æ - ö -  œ - ǫ </p>
+        <p class="precedingemptyline">Numbers:</p>
+        <p>1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10</p>
+        <p class="precedingemptyline">Diacritics</p>
+        <p>The general acute kan be used as universal accent for all diacritics. The standard say you can choose between the general sign or the spesific sign. I have chosen the universel sign. Specific sign can be necessary at a later point if we are going to produse students books in braille where the special signs are importent. </p>
+        <p>´- acute, general 4</p>
+        <p>`- grave, general 45</p>
+        <p>¯ - macron 45 or 4</p>
+        <p>~ - tilde 1456 or 4</p>
+        <p>¨- umlaut (trema) 25 or 4</p>
+        <p>^ cirkumfleks 46 or 4</p>
+        <p>ˇ  - omvendt cirkumfleks, caron 46 or 4</p>
+        <p>˘ - breve 256 or 4</p>
+        <p>e̊ - ring 256 or 4</p>
+        <p>ş - cedilla (except ç) 235 or 4</p>
+        <p>ą - ogonek 235 or 4</p>
+        <p>Ł - bar/stroke, a stroke going through a letter 35 or 4</p>
+        <p class="precedingemptyline">Tegnsetting</p>
+        <p>Jeg er 3 punktum. Jeg er 2 komma, og jeg er 23 semikolon; og etter meg kommer 25 kolon: men det burde kanskje være 26 spørsmålstegn? eller rett og slett 235 utropstegn!</p>
+        <p class="precedingemptyline">Diverse</p>
+        <p>Rund parentes er (236 og og 356).</p>
+        <p>Hakeparentes er [12356 og 23456]. </p>
+        <p>Klammeparantes er {6-12356 og 6-23456}. Mengdeparentes ser ut som klammeparentes og brukes hovedsakelig i matematiske oppstillinger og skal da ha notasjon 126 og 345. Vi kan ikke automatisere ett uttrykk som har to uttrykksmuligheter.</p>
+        <p>Anførselstegn "blabla" har 256 ved begynnelse og slutt.</p>
+        <p>Andre generelle tegn kan være: apostrof " som har 5, stjerne * som har 35, et-tegn (og) som har 356 og dessverre også har en betydning i XML.</p>
+        <p>paragraftegn § har 346 akkurat som et-tegn. I punktskrift settes paragraftegn helt inntil tallet §12 men dette skjer ikke alltid i vanlig skrift. Kan det ordnes? Dersom flere henvisninger kommer etter hverandre, setter man to parafraftegn først. Vi kan ikke gjøre om fra original tekst, så vi følger det som står der.</p>
+        <p>firkanttegn # har 3456 og er mye i bruk i punktskrift siden det brukes som talltegn.</p>
+        <p class="precedingemptyline">Vanlig bindestrek - har 36</p>
+        <p>Lang bindestrek — har 36-36</p>
+        <p>Tanke og replikkstrek – har 36-36 </p>
+        <p>Skråstrek / har 34</p>
+        <p class="precedingemptyline">Jeg stopper her foreløpig.</p>
+    
+     
+</level1>
+    </bodymatter>
+</book>
+</dtbook>
