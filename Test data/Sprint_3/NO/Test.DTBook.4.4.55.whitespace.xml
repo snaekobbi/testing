@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3"><head>
+    <link  rel="stylesheet"   media="embossed" type="text/css" href="stylewhitespace.css" />
+    <meta name="dtb:uid" content="test"/> 
+    <meta name="dc:Title" content="Override Whitespace"/> 
+    <meta name="dc:Identifier" content="test"/> 
+    <meta name="track:Guidelines" content="2015-1"/> 
+    <meta name="track:Supplier" content=""/> 
+    <meta name="dc:Language" content="no"/> 
+    <meta name="dc:Format" content="DTBook"/> 
+    <meta name="dc:Creator" content="Kari"/>
+    <meta name="dc:Contributor" content=""/>
+    <meta name="dc:Source" content=""/> 
+    <meta name="dc:Date" content="2015-06-19"/> 
+    <meta name="dc:Publisher" content="NLB"/> 
+    <meta name="dcterms:modified" content="2015-05-21T15:12:03+00:00"/> 
+</head><book>
+    <frontmatter>
+       
+ </frontmatter>
+    <bodymatter>
+        <level1>
+            <p>Orginaltittel:    Hunden</p> 
+            <pre>Orginaltittel:        Hunden</pre>  
+            
+            <p>innbinding:        
+                Otta
+                
+            </p             >
+            <p>blablabla</p>
+            <pre>innbinding:        
+                Otta
+                        
+                            </pre             >
+            <p>blablabla</p>
+    </level1></bodymatter>
+</book>
+</dtbook>
+
+ 
