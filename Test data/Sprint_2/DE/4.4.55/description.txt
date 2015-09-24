@@ -1,0 +1,9 @@
+Hi Bert,
+
+Here is the test data including the css for the test 4.4-55. 
+I corrected the source replacing
+<brl:literal>???????</brl:literal> with <brl:literal>&#x00A0;&#x00A0;??????&#x00A0;&#x00A0;</brl:literal>. 
+However, the output is the same: the whitespace collapses where it should be preserved.
+
+Regards,
+Mischa

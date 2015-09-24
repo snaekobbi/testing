@@ -1,0 +1,56 @@
+@page { size: 28 28; }
+
+.block1 {
+	display: block;
+	margin-left: 4;
+	margin-right: 4;
+	margin-top: 1;
+	margin-bottom: 1;
+}
+
+.block2 {
+	display: block;
+	margin-left: 2;
+	margin-right: 2;
+	margin-top: 1;
+	margin-bottom: 1;
+	padding-left: 4;
+	padding-right: 4;
+	padding-top: 1;
+	padding-bottom: 1;
+	border-left: ⠇;
+	border-right: ⠸;
+	border-top: ⠒;
+	border-bottom: ⠒;
+}
+
+.indent {
+	display: block;
+	text-indent: 2;
+}
+
+.hanging {
+	display: block;
+	text-indent: -2;
+  margin-left: 2;
+}
+
+.left {
+	display: block;
+	text-align: left;
+}
+
+.center {
+	display: block;
+	text-align: center;
+}
+
+.right {
+	display: block;
+	text-align: right;
+}
+
+.v_align {
+	display: block;
+	-obfl-vertical-position: 15;
+}

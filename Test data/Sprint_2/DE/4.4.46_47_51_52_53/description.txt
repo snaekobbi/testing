@@ -1,0 +1,30 @@
+Hi Bert,
+
+Please find enclosed the css-file for the tests 4.4-46.47.51.52.53.
+By the way, I re-ran the tests and noticed that there are different results depending on the transform field:
+
+
+1. (formatter:dotify)(translator:sbs)(grade:0)
+--> no output, process is hanging eternally
+
+2. field empty:
+--> output as stated in my protocol:
+4.4:46: Pass
+4.4:47: Fail (no top/bottom border)
+4.4:51: Pass
+4.4:52: Fail (wrong indent)
+4.4:53: Pass
+
+3. (formatter:dotify):
+--> output as follows:
+4.4:46: Pass
+4.4:47: Fail (braille signs in css are ignored)
+4.4:51: Pass
+4.4:52: Fail (wrong indent)
+4.4:53: Fail (-obfl-vertical-position has no effect)
+
+Thanks for clarifying the issue.
+
+Regards,
+Mischa
+
