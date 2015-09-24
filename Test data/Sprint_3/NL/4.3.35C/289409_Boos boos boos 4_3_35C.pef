@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pef xmlns="http://www.daisy.org/ns/2008/pef" version="2008-1">
+   <head xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <meta>
+         <dc:date>2015-09-24+02:00</dc:date>
+         <dc:format>application/x-pef+xml</dc:format>
+         <dc:identifier>00c8c8ea-68af-431a-82c4-d78f36d9d5ce</dc:identifier>
+         <dc:title>Boos boos boos</dc:title>
+         <dc:language>nl</dc:language>
+         <dc:publisher>Dedicon</dc:publisher>
+      </meta>
+   </head>
+   <body>
+      <volume rows="25" cols="40" rowgap="0" duplex="false">
+			
+		       <section>
+				        <page>
+					          <row>⠨⠃⠕⠕⠎⠀⠃⠕⠕⠎⠀⠃⠕⠕⠎</row>
+					          <row>⠨⠑⠇⠇⠑⠀⠧⠁⠝⠀⠨⠇⠊⠑⠎⠓⠕⠥⠞⠀⠯⠀⠨⠑⠗⠊⠅⠀⠧⠁⠝⠀⠨⠕⠎</row>
+					          <row>⠼⠃</row>
+					          <row>⠊⠅⠀⠃⠑⠝⠀⠍⠕⠕⠎</row>
+					          <row>⠊⠅⠀⠧⠊⠎⠀⠊⠝⠀⠑⠑⠝⠀⠍⠑⠑⠗</row>
+					          <row>⠕⠕⠀⠝⠑⠑</row>
+					          <row>⠕⠕⠀⠝⠑⠑⠀⠑⠑⠝⠀⠧⠊⠝</row>
+					          <row>⠕⠕⠀⠝⠑⠑⠀⠑⠑⠝⠀⠧⠊⠎</row>
+					          <row>⠑⠑⠝⠀⠧⠊⠎⠀⠍⠑⠞⠀⠏⠊⠞</row>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+					          <row/>
+				        </page>
+			      </section>
+      </volume>
+   </body>
+</pef>
