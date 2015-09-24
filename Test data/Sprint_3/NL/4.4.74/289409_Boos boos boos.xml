@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xml:lang="nl" version="2005-3" xmlns="http://www.daisy.org/z3986/2005/dtbook/">
+<head>
+<meta name="dtb:uid" content="228286"/>
+<meta name="dc:Title" content="Boos boos boos"/>
+<meta name="dc:Publisher" content="Dedicon"/>
+<meta name="dc:Language" content="nl"/>
+<meta name="dc:Identifier" content="222222"/>
+<meta name="prod:rawVersion" content="N"/>
+<meta name="prod:docHyphenate" content="Y"/>
+</head>
+<book>
+<frontmatter>
+<doctitle>Boos boos boos</doctitle>
+<docauthor>Elle van Lieshout &amp; Erik van Os</docauthor>
+</frontmatter>
+<bodymatter>
+<level1>
+<pagenum page="normal" id="p-2">2</pagenum>
+<p>ik ben moos</p>
+<p>ik vis in een meer</p>
+<p/>
+<p>oo nee</p>
+<p>oo nee een vin</p>
+<p>oo nee een vis</p>
+<p>een vis met pit</p>
+</level1>
+</bodymatter>
+</book>
+</dtbook>
