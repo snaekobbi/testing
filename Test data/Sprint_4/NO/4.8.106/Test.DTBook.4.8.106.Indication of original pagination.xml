@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3"><head>
+    <link  rel="stylesheet"   media="embossed" type="text/css" href="style.css" />
+    <meta name="dtb:uid" content="test"/> 
+    <meta name="dc:Title" content="Test.4.8.106.Original pagination"/> 
+    <meta name="dc:Identifier" content="test"/> 
+    <meta name="track:Guidelines" content="2015-1"/> 
+    <meta name="track:Supplier" content=""/> 
+    <meta name="dc:Language" content="no"/> 
+    <meta name="dc:Format" content="DTBook"/> 
+    <meta name="dc:Creator" content="Kari"/>
+    <meta name="dc:Contributor" content=""/>
+    <meta name="dc:Source" content=""/> 
+    <meta name="dc:Date" content="2015-06-19"/> 
+    <meta name="dc:Publisher" content="NLB"/> 
+    <meta name="dcterms:modified" content="2015-05-21T15:12:03+00:00"/> 
+</head><book><frontmatter> 
+    <doctitle>Test DTBook. 4.8.106.Original pagination test</doctitle> 
+    <docauthor>Kari</docauthor>
+    </frontmatter>
+    <bodymatter>
+       <level1>
+        <p>«Ja, jeg har lagt merke til skiltet.» Hun gav meg en smal, myk hånd med lange, glattlakkerte negler. «Live... Dyrdal,» sa hun med en ørliten pause på midten, som om hun ikke var helt sikker på hvilket etternavn hun hadde denne dagen.</p> 
+        <pagenum id="page-11" page="normal">11</pagenum> 
+        <p>«Hvor lenge – sitter du her da?»</p> 
+        <p>Janitsjarmusikk for full styrke, åpning av champagneflasker og høylytte orgasmer forbød seg selv. Dette var på den tiden jeg bare så vidt var begynt å jobbe med en omfattende bilforsikringssak som resulterte i store avisoppslag et halvt år senere, da de begynte å fiske de <pagenum id="page-12" page="normal">12</pagenum>etterlyste bilene opp av et vann på Askøy. Mesteparten av dagen satt jeg i telefonen, men jeg fulgte ganske godt med i lydene rundt meg likevel.</p> 
+        <p>Navnet på glassruten i døren var så ferskt at det ennå luktet maling av det: <em>Tannlege Per Austbø, MNTF.</em></p> 
+        <p>Jeg trykket ned klinken og presset innover.</p> 
+        <p>Døren var låst.</p> 
+        <pagenum id="page-13" page="normal">13</pagenum> 
+        <p>Men fra kontoret ved siden av hørte jeg fremdeles boret.</p>
+    </level1>
+    </bodymatter>
+</book>
+</dtbook>

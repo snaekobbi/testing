@@ -1,0 +1,14 @@
+@page {
+	size: 20 30;
+}
+
+dtbook {
+	hyphens: auto;
+}
+
+
+@page:left { margin-top: 1; }
+
+level1 {
+  display: block;
+  line-height: 2; }
