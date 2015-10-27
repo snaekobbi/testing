@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dtbook
+  PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="no" version="2005-3"><head>
+    <link  rel="stylesheet"   media="embossed" type="text/css" href="style80.css" />
+    <meta name="dtb:uid" content="test"/> 
+    <meta name="dc:Title" content="4.5.80"/> 
+    <meta name="dc:Identifier" content="test"/> 
+    <meta name="track:Guidelines" content="2015-1"/> 
+    <meta name="track:Supplier" content=""/> 
+    <meta name="dc:Language" content="no"/> 
+    <meta name="dc:Format" content="DTBook"/> 
+    <meta name="dc:Creator" content="Kari"/>
+    <meta name="dc:Contributor" content=""/>
+    <meta name="dc:Source" content=""/> 
+    <meta name="dc:Date" content="2015-06-19"/> 
+    <meta name="dc:Publisher" content="NLB"/> 
+    <meta name="dcterms:modified" content="2015-05-21T15:12:03+00:00"/> 
+</head><book><frontmatter> 
+    <doctitle>4.5.80</doctitle> 
+    <docauthor>Kari</docauthor>
+</frontmatter>
+    <bodymatter>
+        
+        <level1>
+            
+            
+            <body>
+                <span class="pagenum">⠼⠁</span>
+                <p>
+                    ⠿⠿⠿ ⠿⠿⠿ ⠿⠿⠿ ⠿⠿⠿ ⠿⠿⠿
+                    ⠿⠿⠿ ⠿⠿⠿ ⠿⠿⠿ ⠿⠿⠿ ⠿⠿⠿
+                </p>
+                <span class="pagenum">⠼⠃</span>
+                <p>
+                    ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭
+                    ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭
+                    <span class="pagenum">⠼⠉</span>
+                    ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭ ⠭⠭⠭
+                </p>
+            </body>
+            
+            
+            <p id="1"> --- --- --- ---  </p>
+            <p id="2"> qqq qqq qqq qqq </p>
+            <p id="3"> ggg </p>
+            <p id="4"> lll lll lll lll </p>
+            <p id="1"> --- --- --- ---  </p>
+            <p id="2"> qqq qqq qqq qqq </p>
+            <p id="3"> ggg </p>
+            <p id="4"> lll lll lll lll </p>
+        </level1>
+    </bodymatter>
+</book>
+</dtbook>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE dtbook [<!ENTITY ndash "&#x2013;"><!ENTITY nbsp "&#x00A0;">]><?oxygen RNGSchema="http://xmlp/schema/dtbook-2005-3-sbs.rng" type="xml"?>
+<dtbook version="2005-3-sbs-full" xml:lang="de" xmlns:brl="http://www.daisy.org/z3986/2009/braille/"
+  xmlns="http://www.daisy.org/z3986/2005/dtbook/">
+  <head>
+    <meta name="dc:Title" content="PRODSERVER1"/>
+    <meta name="dc:Creator" content="HAFECHÄS"/>
+    <meta name="dc:Subject" content=""/>
+    <meta name="dc:Description" content=""/>
+    <meta name="dc:Publisher"
+      content="Swiss Library for the Blind, Visually Impaired and Print Disabled"/>
+    <meta name="dc:Date" content="2012-01-05"/>
+    <meta name="dc:Type" content="Text"/>
+    <meta name="dc:Format" content="ANSI/NISO Z39.86-2005"/>
+    <meta name="dc:Identifier" content="ch-sbs-0d63eb29-566a-4061-a8bf-b279c69699ed"/>
+    <meta name="dc:Source" content=""/>
+    <meta name="dc:Language" content="de"/>
+    <meta name="dc:Rights" content=""/>
+    <meta name="dtb:uid" content="ch-sbs-0d63eb29-566a-4061-a8bf-b279c69699ed"/>
+    <meta name="dtb:sourceEdition" content=""/>
+    <meta name="dtb:sourcePublisher" content=""/>
+    <meta name="dtb:sourceRights" content=""/>
+    <meta name="prod:series" content=""/>
+    <meta name="prod:seriesNumber" content=""/>
+    <link rel="stylesheet" media="embossed" type="text/css" href="style.css"/>
+  </head>
+  <book>
+    <frontmatter>
+      <doctitle></doctitle>
+      <docauthor></docauthor>
+    </frontmatter>
+    <bodymatter>
+      <level1>
+        <h1>Mittwoch</h1>
+        <p class="noindent">Das ist Ninni, als sie noch sechs Jahre alt war.</p>
+        <p class="noindent">Bis zu ihrem siebten Geburtstag war es nicht mehr lange hin.</p>
+        <p class="noindent">Ninni konnte den Tag kaum erwarten. Während sie wartete, baute sie
+          Höhlen für sich und ihre kleine Schwester.</p>
+        <p class="noindent">Höhlen aus Stühlen und Wolldecken und Schirmen.</p>
+        <p class="noindent">Die kleine Schwester heißt Dini.</p>
+        <p class="noindent">Aber heute wollte Dini in keiner Höhle sein. Dauernd krabbelte sie
+          hinaus in den Flur, um mit Mamas Schuhen zu spielen.</p>
+      </level1>
+    </bodymatter>
+  </book>
+</dtbook>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+@page { size: 10 5; }
+p { display: block; }
+p#1 { page-break-before: always; }
+p#2 { page-break-after: always; }
+p#3 { page-break-after: right; }

@@ -1,0 +1,24 @@
+
+@page {
+  size:28 28;
+}
+
+@page:left { margin-top: 1; }
+
+dtbook{
+  line-height:2;
+}
+
+h1{
+  display:block;
+  text-align:center;
+  border-bottom:⠒;
+  margin-left:6;
+  margin-right:6;
+  margin-bottom:1;
+  margin-top:0;
+}
+
+p{
+  display:block;
+}

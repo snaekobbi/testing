@@ -1,0 +1,35 @@
+
+
+@counter-style downshifted {
+	system: numeric;
+	symbols:  "⠴" "⠂" "⠆" "⠒" "⠲" "⠢" "⠖" "⠶" "⠦" "⠔";
+}
+
+@page {
+  size: 28 5;
+	margin-bottom: 1;
+	@bottom-left {
+  content: "⠸" counter(page) "⠇";
+  }
+	@bottom-center {
+  content: "⠸" counter(page,roman) "⠇";
+	}
+  @bottom-right {
+  content: "⠸" counter(page,downshifted) "⠇";
+	}
+}
+
+dtbook {
+  hyphens: none;
+}
+
+level1 {
+	page: level1;
+	counter-set: page 11;
+}
+
+p {
+	display: block;
+	text-align: left;
+	text-indent: 2;
+}
