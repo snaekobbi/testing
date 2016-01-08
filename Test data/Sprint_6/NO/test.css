@@ -1,0 +1,13 @@
+ @page {
+		  size: 35 20;
+		  margin-left: 2;
+		  @left {
+			content: -obfl-marker-indicator(pagenum, '⠿');
+				}
+	}
+head { display: none }
+p { display: block }
+pagenum {
+  display: none;
+  -obfl-marker: pagenum;
+}
