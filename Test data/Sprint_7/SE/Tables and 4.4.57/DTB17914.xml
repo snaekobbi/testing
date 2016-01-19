@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd" []>
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="sv" version="2005-3"><head>
+        <meta name="dtb:uid" content="DTB17914" /> 
+        <meta name="dc:Title" content="Katitzi, &amp; Katitzi och Swing" /> 
+        <meta name="dc:Identifier" content="DTB17914" /> 
+        <meta name="track:Guidelines" content="2015-1" /> 
+        <meta name="track:Supplier" content="Net Systems Informatics (I) Pvt. Ltd." /> 
+        <meta name="dc:Creator" content="Katarina Taikon" /> 
+        <meta name="dc:Language" content="sv" /> 
+        <meta name="dc:Source" content="urn:isbn:978-91-27-14157-5" /> 
+        <meta name="dc:Format" content="DTBook" /> 
+        <meta name="dc:Publisher" content="MTM" /> 
+        <meta name="dc:Date" content="2015-03-18" /> 
+        <meta name="dcterms:modified" content="2015-03-30T10:52:42+00:00" /> 
+    </head>
+
+<book>
+<frontmatter>
+<doctitle>Katitzi &amp; Katitzi och Swing</doctitle> 
+     
+<docauthor>Katarina Taikon</docauthor>
+
+
+</frontmatter>
+
+<bodymatter><level1 id="p1" class="part"> 
+                <pagenum id="Page_5" page="normal">5</pagenum> 
+
+<table>
+					<tr>
+						<th>Grundformen</th>
+						<th>ED1-formen Preteritum</th>
+						<th>ED2-formen Perfekt particip</th>
+					</tr>
+					<tr>
+						<td>be (se också 3.10)</td>
+						<td>was/were</td>
+						<td>been</td>
+					</tr>
+					<tr>
+						<td>bear bära</td>
+						<td>bore</td>
+						<td>borne burit</td>
+					</tr>
+					<tr>
+					  <td></td>
+						<td></td>
+						<td>bom född</td>
+					</tr>
+					<tr>
+						<td>beat slå</td>
+						<td>beat</td>
+						<td>beaten</td>
+					</tr>
+					<tr>
+						<td>become bli</td>
+						<td>became</td>
+						<td>become</td>
+					</tr>
+					<tr>
+						<td>begin börja</td>
+						<td>began</td>
+						<td>begun</td>
+					</tr>
+					<tr>
+						<td>bend böja</td>
+						<td>bent</td>
+						<td>bent</td>
+					</tr>
+					<tr>
+						<td>bid bjuda</td>
+						<td>bid</td>
+						<td>bid, bidden</td>
+					</tr>
+					<tr>
+						<td>bind binda</td>
+						<td>bound</td>
+						<td>bound</td>
+					</tr>
+					<tr>
+						<td>bite bita</td>
+						<td>bit</td>
+						<td>bitten</td>
+					</tr>
+					<tr>
+						<td>bleed blöda</td>
+						<td>bled</td>
+						<td>bled</td>
+					</tr>
+					<tr>
+						<td>blow blåsa</td>
+						<td>blew</td>
+						<td>blown </td>
+					</tr>
+					<tr>
+						<td>break bryta</td>
+						<td>broke</td>
+						<td>braken</td>
+					</tr>
+					<tr>
+						<td>breed föda upp</td>
+						<td>bred</td>
+						<td>bred</td>
+					</tr>
+				</table>
+          </level1>
+</bodymatter>
+</book>
+
+</dtbook>

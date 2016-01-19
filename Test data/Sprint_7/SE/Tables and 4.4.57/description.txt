@@ -1,0 +1,17 @@
+Hi,
+
+Sending some test material for tables, especially req. 4.4.57, I think (stairstep format). 
+
+Note: 
+
+•	Input: 
+	o	Column headings have markup <th>
+
+•	Output: 
+	o	Markers in braille for empty cells. 
+	o	Text in braille inserted to explain that column headings follow. 
+
+•	I will try to make another example with a table that have markup <th> for row headings too. Such a table should be treated differently, I think.
+
+Regards,
+Björn 
