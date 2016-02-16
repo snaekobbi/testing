@@ -1,0 +1,21 @@
+
+@page {
+  size:28 28;
+}
+
+dtbook{
+  hyphens:none;
+}
+
+li{
+  display:block;
+}
+
+li li{
+  display:block;
+  margin-left:2;
+}
+
+lic + lic::before{
+  content:leader('⠄')' ';
+}

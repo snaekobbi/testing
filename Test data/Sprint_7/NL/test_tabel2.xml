@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xml:lang="nl" version="2005-3" xmlns="http://www.daisy.org/z3986/2005/dtbook/">
+<head>
+<meta name="dtb:uid" content="228286"/>
+<meta name="dc:Title" content="test tabel 2"/>
+<meta name="dc:Creator" content="sfkjhdf"/>
+<meta name="dc:Date" content="2014-05-30"/>
+<meta name="dc:Publisher" content="Dedicon"/>
+<meta name="dc:Language" content="nl"/>
+<meta name="dc:Identifier" content="222222"/>
+<meta name="dc:Format" content="ANSI/NISO Z39.86-2002"/>
+<meta name="dc:Source" content="1111111111"/>
+<meta name="dtb:producedDate" content="2014-05-30"/>
+<meta name="prod:docType" content="sv"/>
+<meta name="prod:rawVersion" content="N"/>
+<meta name="prod:docHyphenate" content="Y"/>
+<meta name="prod:MathNotation" content="code2009"/>
+<meta name="prod:colophon" content="1"/>
+<meta name="prod:producer" content="Davy Kager"/>
+<meta name="dtb:sourcePublisher" content="sdf"/>
+<meta name="prod:guidelineversion" content="sdf"/>
+</head>
+<book>
+<frontmatter>
+<doctitle>Test tabel 2</doctitle>
+<docauthor>Davy Kager</docauthor>
+</frontmatter>
+<bodymatter>
+<level1>
+<pagenum page="normal" id="p-2">2</pagenum>
+<p class="table-title">Kolommen met langere stukken tekst erin die niet op 1 regel passen</p>
+<table>
+<tr>
+<td>tekst</td>
+<td>langere tekst</td>
+<td>nog iets langere tekst</td>
+<td>hele lange tekst die zeker niet meer op een enkele regel zal passen</td>
+</tr>
+<tr>
+<td>lange tekst die niet op een enkele regel zal passen</td>
+<td>tekst</td>
+<td>tekst</td>
+<td>tekst</td>
+</tr>
+</table>
+</level1>
+</bodymatter>
+</book>
+</dtbook>

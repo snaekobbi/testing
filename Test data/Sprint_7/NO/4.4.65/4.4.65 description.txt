@@ -1,0 +1,112 @@
+Oh, yes, the devil is in the details. Now it works nice!
+
+The only thing I have left to comment, is that the toc should not include headers from frontmatter, but I guess that is a small CSS matter and don’t need to be tested further.
+
+Kari
+
+Documentation attached.
+
+
+Fra: Bert Frees [mailto:bertfrees@gmail.com] 
+Sendt: 3. februar 2016 12:18
+Til: Kari Rudjord <Kari.Rudjord@nlb.no>
+Kopi: Ammar Usama <Ammar.Usama@nlb.no>; Denis Viro <denis.viro@frontit.se>
+Emne: Re: 4.4.65 two-column TOC not working
+
+Hi Kari,
+It seems your input XML is invalid. The line "<?xml... ?>" MUST be on the very first line of the file. You have an empty line before it :)
+
+2016-02-03 12:11 GMT+01:00 Kari Rudjord <Kari.Rudjord@nlb.no>:
+I've tried, but the job get status Error (Job#1955, Job#1954)
+
+
+Kari
+
+-----Opprinnelig melding-----
+Fra: Bert Frees [mailto:bertfrees@gmail.com]
+Sendt: 3. februar 2016 09:31
+Til: Kari Rudjord <Kari.Rudjord@nlb.no>
+Kopi: Ammar Usama <Ammar.Usama@nlb.no>; Denis Viro <denis.viro@frontit.se>
+Emne: Re: 4.4.65 two-column TOC not working
+
+Hi Kari,
+
+Could you try the following?
+
+#generated-toc li {
+  display: block;
+  margin-left: 2;
+  text-indent: -2;
+}
+#generated-toc li a::after {
+  content: ' ' leader('?') ' ' target-counter(attr(href), page); }
+
+Notice the "leader" that I added.
+
+Due to a known bug the braille page numbers after the leaders will end up on the next line. But at least you'll see the leaders working already.
+
+Not sure if I got the indentation right, but you can further tweak that. Note that "#generated-toc li" selects all toc entries, and the margins are accumulated, which means that level 1 entries of will get a margin of 2, level 2 entries get a margin of 4 (2 + 2), etc:
+
+,KORSDRAGER SOVER I SOLNEDGANG
+  EN MORGEN ................... #B
+  ,OVERSKRIFT NIV* #B ......... #G
+  ,OVERSKRIFT NIV* #C ......... #G
+,ULVEN OG KALVEN ............. #DI
+,[MFINTLIGHET ................ #GI
+
+If for some reason you need to select level 1 entries and level 2 entries separately, use the CSS child selector:
+
+/* level 1 */
+#generated-toc > li {
+  ...
+}
+
+/* level 2 */
+#generated-toc > li > li {
+  ...
+}
+
+
+Hope this helps,
+Bert
+
+
+
+Kari Rudjord writes:
+
+> Hi,
+>
+> I've copied the CSS from your example on
+> https://github.com/snaekobbi/pipeline-mod-nlb/blob/7d0479a/src/test/xp
+> rocspec/test_script.xprocspec#L10 and put it together with NLBs
+> upcoming CSS for layout in braille books (it is not all finished yet,
+> but that shouldn't matter)
+>
+> The result is a TOC with entries to the left, but page numbers doesn't aligned on the right as they should.
+> "Optionally leaders may be used to connect the two columns." - I don't get this to work, but maybe I miss something in the CSS?
+>
+> I think there should be a difference between level 1 headings and the others, because level 1 is the main structure of the book. In our current system we have it like this, working fine for blind people:
+>
+> -          h1 from margin. If it is more than one row, we have 2 indents on the following rows to make clear that it is not a new heading
+>
+> -          also, when h2 h3 ... appears they have 2 indents to separate them from the main headings
+>
+> Is that possible to implement?
+>
+> Example TOC.Norbraille attatched.
+>
+>
+>
+>
+>
+> Med vennlig hilsen
+>
+> [Beskrivelse: NLB_logo]<http://www.nlb.no/>
+>
+> Kari Rudjord - Rådgiver
+> NLB - Norsk lyd- og blindeskriftbibliotek
+> Tlf: 22 06 88 36
+> E-post: Kari.Rudjord@nlb.no<mailto:Kari.Rudjord@nlb.no>
+> Besøk: Observatoriegata 1B, Oslo / Post: Postboks 2764 Solli, 0204
+> Oslo www.nlb.no<http://www.nlb.no/>
+

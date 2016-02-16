@@ -1,0 +1,73 @@
+
+
+@page 
+	{ size: 30 28;
+	margin-top: 1;
+	margin-bottom: 1;
+	margin-left: 2;
+	margin-right: 2;
+	
+	@bottom-right 
+		{
+			content:  string(print-page , last);
+		}	
+	@bottom-center 
+		{
+			content: counter(page);
+		}			
+  	}	
+
+pagenum 
+	{
+	display: none;		 
+	string-set: print-page '⠿'content();  
+	}
+
+
+/*div {
+    hyphens:auto;
+}*/
+
+h4 {
+	display: block;
+	margin-top: 1;
+	margin-left: 2;
+	text-indent: 5;
+}
+
+h5 {
+	display: block;
+	margin-top: 1;
+	margin-left: 2;
+}
+
+p {
+	display: block;
+	margin-left: 2;
+	text-indent: 2;
+	hyphens: auto;
+}
+
+imggroup { display: none; } 
+ @volume:first {
+                  @begin {
+                    content: flow(titlepage) flow(volume-toc);
+                  }
+                }
+                @volume:first {
+                  @begin {
+                    content: flow(titlepage) flow(document-toc);
+                  }
+                }
+                .titlepage, .colophon {
+                  display: block;
+                  page-break-after: right;
+                  flow: titlepage;
+                }
+#generated-toc li {
+  display: block;
+  margin-left: 2;
+  text-indent: -2;
+}
+#generated-toc li a::after {
+  content: ' ' leader('⠄') ' ' target-counter(attr(href), page); }

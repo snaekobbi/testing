@@ -1,0 +1,8 @@
+The included BRF files are expected output, the XML files are the input. 
+
+Note that I cleaned the output up a bit so it is not exactly what the system would produce. 
+
+This shows the basic table format that Dedicon uses and that should be available with the next 
+release of the system (the changes are currently in a snapshot of pipeline-mod-dedicon).
+
+/Davy

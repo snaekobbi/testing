@@ -1,0 +1,17 @@
+Hi Denis,
+
+here is test report sprint 7 and testresult for:
+
+4.6.65 TOC
+4.6.88 basic volume breaking
+4.6.90 volume-scope TOC (covered by the example in 4.6.88)
+
+
+4.6.89: is exposed to next sprint
+
+4.4.56, 4.4.57 and 4.4.58: Bert and I have agreed that I test tables next week. Since NLB have little experience with tables I need a bit time (and benefit from the others testing).
+
+4.6.91: grouping of entries according to volume – not a feature we need, so Bert will find another tester.
+
+Best regards,
+Kari

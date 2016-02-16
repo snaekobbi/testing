@@ -1,0 +1,39 @@
+
+@page {
+  size:28 28;
+}
+
+dtbook{
+  hyphens:none;
+}
+
+table{
+  margin-top:2;
+}
+
+tr:first-child{
+  display:block;
+  margin-left:0;
+  border-bottom: ⠒;
+}
+
+tr{
+  display:block;
+  margin-left:0;
+}
+
+#t1 th + th::before{
+  content:' ⠒⠒ ';
+}
+
+#t1 td + td::before{
+  content:' ⠒⠒ ';
+}
+
+#t2 td + td::before{
+  content:leader('⠄') ' ';
+}
+
+#t2 th + th::before{
+  content:leader('⠄') ' ';
+}
