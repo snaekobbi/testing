@@ -1,0 +1,36 @@
+table, tr {
+	display: block;
+  margin-left: 2;
+  text-indent: -2;
+}
+
+
+th::after,
+  td::after {
+    content: '⠆⠀';
+  }
+  
+  th:last-child::after,
+  td:last-child::after {
+    content: none;
+  }
+  
+  td:empty::after {
+    content: '--';
+  }  
+  
+  pagenum {
+      display: none;
+  }
+
+table::before {
+	display: block;
+	content: 'Tabell starter.';
+}
+
+table::after {
+	display: block;
+	content: 'Tabell slutter.';
+}
+
+

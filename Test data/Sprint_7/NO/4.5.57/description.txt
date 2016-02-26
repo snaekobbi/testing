@@ -1,0 +1,6 @@
+Hi,
+
+Table into list, row by row is now working fine for NLB. Test result attached.
+I will also test for rendering each row as a sublist.
+
+Regards
