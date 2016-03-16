@@ -1,0 +1,29 @@
+@volume {
+  @end {
+    content: flow(endnotes, volume);
+  }
+}
+
+noteref::before {
+  content: '⠠';
+}
+
+noteref::alternate {
+  flow: endnotes;
+  display: block;
+  content: target-content(attr(idref));
+}
+
+level1.footnotes {
+  display: none;
+ 
+ }
+
+note p::before {
+  content: '⠠';
+}
+note p {
+  margin-left: 4;
+  text-indent: -2;
+}
+

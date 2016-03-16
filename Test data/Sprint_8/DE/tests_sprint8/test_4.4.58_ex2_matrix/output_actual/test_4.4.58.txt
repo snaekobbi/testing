@@ -1,0 +1,13 @@
+ BIENEN  DROHNEN
+ ::::::  :::::::
+ #EJ     ---
+ #AJJ    #B
+ #AEJ    ---
+ #BJJ    ---
+ ---     #E
+ ---     #EJ
+ ---     #AJJ
+ ---     #AEJ
+ ---     #BJJ
+p
+p

@@ -1,0 +1,19 @@
+
+@page {
+  size:28 28;
+}
+
+dtbook{
+  hyphens:auto;
+}
+
+table{
+  display:table;
+  -obfl-table-col-spacing:2;
+}
+
+th{
+  border-bottom:⠒;
+}
+
+

@@ -1,0 +1,84 @@
+@page {
+	size: 28 28;
+}
+
+
+
+@page:right {
+	margin-bottom: 1;
+	@bottom-left {
+		content: string(print-page, spread-start) string(slash-print-page, spread-last-except-start);
+		text-transform: print-page;
+	}
+	@bottom-center {
+		content: string(running-footer);
+	}
+	@bottom-right {
+		content: counter(page);
+	}
+}
+
+dtbook {
+  hyphens: none;
+  counter-reset: footnote 0;
+}
+
+h1 {
+	display: block;
+	text-align: center;
+	margin-top: 1;
+	border-bottom: ⠤;
+	margin-bottom: 1;
+}
+
+level1 {
+  page-break-after: left; 
+}
+
+dtbook::after {
+  content: flow(chapter-notes);
+}
+
+p {
+	display: block;
+	text-align: left;
+	text-indent: 2;
+}
+
+pagenum {
+	display: none;
+	string-set: print-page content(), slash-print-page '/' content();
+}
+
+noteref {
+  counter-increment: footnote;
+}
+
+noteref::after {
+  display: inline;
+  content: counter(footnote);
+}
+
+noteref::alternate {
+  flow: chapter-notes;
+  display: block;
+  content: counter(footnote) ' ' target-content(attr(idref));
+	text-indent: -2;
+	margin-left: 2
+}
+
+dtbook:has(noteref)::after::before {
+  display: block;
+  margin-top: 1;
+  border-bottom: ⠒;
+  content: '⠁⠝⠍⠑⠗⠅⠥⠝⠛⠑⠝';
+}
+
+note {
+  display: none;
+}
+
+note p {
+  display: inline;
+}
+
