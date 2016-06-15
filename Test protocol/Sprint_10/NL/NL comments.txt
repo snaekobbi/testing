@@ -1,0 +1,9 @@
+Hi,
+ 
+Filled out the report. 
+Note that I added a few comments to requirements that were not assigned to NL. 
+In particular, print page ranges do not work correctly (Bert suggests this is because of a change in Dotify from +/- December last year). 
+This feature is very important to NL.
+ 
+Thanks,
+Davy
